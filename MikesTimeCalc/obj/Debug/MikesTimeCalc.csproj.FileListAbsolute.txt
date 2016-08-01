@@ -1,0 +1,11 @@
+c:\users\gumanma\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\bin\Debug\MikesTimeCalc.exe.config
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\bin\Debug\MikesTimeCalc.exe
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\bin\Debug\MikesTimeCalc.pdb
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\obj\Debug\MikesTimeCalc.frmMain.resources
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\obj\Debug\MikesTimeCalc.Properties.Resources.resources
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\obj\Debug\MikesTimeCalc.csproj.GenerateResource.Cache
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\obj\Debug\MikesTimeCalc.exe
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\obj\Debug\MikesTimeCalc.pdb
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\bin\Debug\MikesWidget.dll
+C:\Users\GumanMA\documents\visual studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\bin\Debug\MikesWidget.pdb
+C:\Users\GumanMA\Documents\Visual Studio 2015\Projects\MikesTimeCalc\MikesTimeCalc\obj\Debug\MikesTimeCalc.csprojResolveAssemblyReference.cache
