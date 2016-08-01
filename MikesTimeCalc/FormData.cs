@@ -51,6 +51,9 @@ namespace MikesTimeCalc
             }
         }
 
+        /// <summary>
+        ///  Comment here
+        /// </summary>
         public IEnumerable<string> Keys
         {
             // the "ToArray" makes this saf  to add items while enumerating.
